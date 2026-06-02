@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 4101512,
+        "CONCEPT_NAME": "Foot problem",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "299478007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4268887,
+        "CONCEPT_NAME": "Chiropody follow-up",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "400982009",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1059609600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4053100,
+        "CONCEPT_NAME": "Domiciliary chiropody",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "160779001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4101512,
+        "CONCEPT_NAME": "Foot problem",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "299478007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4136647,
+        "CONCEPT_NAME": "Seen by community-based podiatrist",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305770006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4138349,
+        "CONCEPT_NAME": "Seen by community-based podiatry service",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305847006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4140790,
+        "CONCEPT_NAME": "Seen by hospital-based podiatrist",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305771005",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4140924,
+        "CONCEPT_NAME": "Seen by hospital-based podiatry service",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305848001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42539590,
+        "CONCEPT_NAME": "Seen by podiatric surgeon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "736011007",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1517356800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4083436,
+        "CONCEPT_NAME": "Seen by podiatrist",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "185303007",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4139895,
+        "CONCEPT_NAME": "Seen by podiatry service",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305846002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4085778,
+        "CONCEPT_NAME": "Seen in chiropody clinic",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "185269006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4139217,
+        "CONCEPT_NAME": "Under care of community-based podiatrist",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305600000",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4139218,
+        "CONCEPT_NAME": "Under care of hospital-based podiatrist",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305601001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42539494,
+        "CONCEPT_NAME": "Under care of podiatric surgeon",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "736010008",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1517356800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4139705,
+        "CONCEPT_NAME": "Under care of podiatrist",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "305599003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

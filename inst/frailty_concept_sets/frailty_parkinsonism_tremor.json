@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 36716783,
+        "CONCEPT_NAME": "Atypical Parkinsonism",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "722964001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37110549,
+        "CONCEPT_NAME": "Functional parkinsonism",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "724823008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1501459200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 381270,
+        "CONCEPT_NAME": "Parkinson's disease",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "49049000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4140090,
+        "CONCEPT_NAME": "Parkinsonism",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "32798002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 443782,
+        "CONCEPT_NAME": "Tremor",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "26079004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 372604,
+        "CONCEPT_NAME": "Movement disorder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "60342002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

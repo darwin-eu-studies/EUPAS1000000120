@@ -1,0 +1,308 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 4222001,
+        "CONCEPT_NAME": "Collapse of vertebra",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "84138006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4344386,
+        "CONCEPT_NAME": "Disorder of continuity of bone",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240194000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4001458,
+        "CONCEPT_NAME": "Fatigue fracture of vertebra",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "202831001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4015350,
+        "CONCEPT_NAME": "Fracture at wrist and/or hand level",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "208388003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4129393,
+        "CONCEPT_NAME": "Fracture of cervical spine",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "125606003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 442560,
+        "CONCEPT_NAME": "Fracture of femur",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "71620000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4278672,
+        "CONCEPT_NAME": "Fracture of forearm",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "65966004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4013613,
+        "CONCEPT_NAME": "Fracture of lumbar spine and/or pelvis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "207986006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4142905,
+        "CONCEPT_NAME": "Fracture of rib",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "33737001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4302740,
+        "CONCEPT_NAME": "Fracture of sternum",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "78516000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4053828,
+        "CONCEPT_NAME": "Fracture of thoracic spine",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "125607007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4050747,
+        "CONCEPT_NAME": "Fracture of upper limb",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "23406007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4174520,
+        "CONCEPT_NAME": "Fracture of vertebral column",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "50448004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44791986,
+        "CONCEPT_NAME": "Fragility fracture",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "306171000000106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1191196800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4001142,
+        "CONCEPT_NAME": "Osteopathies, chondropathies and acquired musculoskeletal deformities",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "203144000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40480160,
+        "CONCEPT_NAME": "Osteoporotic fracture",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "443165006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1264896000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

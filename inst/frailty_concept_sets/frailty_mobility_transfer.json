@@ -1,0 +1,1543 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 4200353,
+        "CONCEPT_NAME": "Able to mobilize using mobility aids",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301570003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199115,
+        "CONCEPT_NAME": "Able to mobilize using wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301576009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199721,
+        "CONCEPT_NAME": "Able to move around supporting self on furniture",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301557007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44790310,
+        "CONCEPT_NAME": "Able to walk short distances",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "201771000000108",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1143849600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45878557,
+        "CONCEPT_NAME": "Completely immobile",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA9614-4",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer",
+        "VALID_START_DATE": 0,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36716239,
+        "CONCEPT_NAME": "Dependent for sitting",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "722179007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36716240,
+        "CONCEPT_NAME": "Dependent for standing",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "722180005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4146424,
+        "CONCEPT_NAME": "Dependent for walking",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "427512004",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1185840000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4136754,
+        "CONCEPT_NAME": "Dependent on helper pushing wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "413121008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1091232000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46272933,
+        "CONCEPT_NAME": "Deterioration in ability to walk",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "711387003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1438300800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200194,
+        "CONCEPT_NAME": "Difficulty mobilizing",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302046008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199094,
+        "CONCEPT_NAME": "Difficulty mobilizing indoors",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301501003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199114,
+        "CONCEPT_NAME": "Difficulty mobilizing using mobility aids",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301574007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199116,
+        "CONCEPT_NAME": "Difficulty mobilizing using wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301580004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199431,
+        "CONCEPT_NAME": "Difficulty moving",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302002000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200817,
+        "CONCEPT_NAME": "Difficulty moving around supporting self on furniture",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301561001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4107789,
+        "CONCEPT_NAME": "Difficulty shuffling",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282618006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4107851,
+        "CONCEPT_NAME": "Difficulty sitting",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282969008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199552,
+        "CONCEPT_NAME": "Difficulty sitting unsupported",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302048009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4093668,
+        "CONCEPT_NAME": "Difficulty standing",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "249902000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4154006,
+        "CONCEPT_NAME": "Difficulty transferring weight",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282656007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36714126,
+        "CONCEPT_NAME": "Difficulty walking",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "719232003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4086550,
+        "CONCEPT_NAME": "Difficulty walking up a slope",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282159001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4112788,
+        "CONCEPT_NAME": "Difficulty weight-bearing",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "285680001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199112,
+        "CONCEPT_NAME": "Does mobilize using aids",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301572006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199725,
+        "CONCEPT_NAME": "Does mobilize using wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301578005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200815,
+        "CONCEPT_NAME": "Does move around supporting self on furniture",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301559005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200193,
+        "CONCEPT_NAME": "Does not mobilize",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302045007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200798,
+        "CONCEPT_NAME": "Does not mobilize indoors",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301500002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199113,
+        "CONCEPT_NAME": "Does not mobilize using mobility aids",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301573001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200183,
+        "CONCEPT_NAME": "Does not move",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302001007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4084746,
+        "CONCEPT_NAME": "Does not shuffle",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282617001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4106333,
+        "CONCEPT_NAME": "Does not sit",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282968000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199551,
+        "CONCEPT_NAME": "Does not sit unsupported",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302047004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4106335,
+        "CONCEPT_NAME": "Does not stand",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282973006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4119464,
+        "CONCEPT_NAME": "Does not transfer between wheelchair and toilet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302278009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4154005,
+        "CONCEPT_NAME": "Does not transfer weight",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282655006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4086871,
+        "CONCEPT_NAME": "Does not walk",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282147000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4086549,
+        "CONCEPT_NAME": "Does not walk up a slope",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282158009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4112787,
+        "CONCEPT_NAME": "Does not weight-bear",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "285676006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4295037,
+        "CONCEPT_NAME": "Get up and go test - abnormal",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "401195006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1059609600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4009877,
+        "CONCEPT_NAME": "Immobile",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "102491009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1621081,
+        "CONCEPT_NAME": "Immobile or <50 yards",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA31639-0",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer",
+        "VALID_START_DATE": 0,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4031883,
+        "CONCEPT_NAME": "Impaired bed mobility",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "129859006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4306934,
+        "CONCEPT_NAME": "Impaired mobility",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "82971005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032531,
+        "CONCEPT_NAME": "Impaired wheelchair mobility",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "129857008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3198828,
+        "CONCEPT_NAME": "Increased weakness when ambulating",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "28830001000004107",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "Nebraska Lexicon",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1453939200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4010359,
+        "CONCEPT_NAME": "Loss of control of walking",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "102567002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4052049,
+        "CONCEPT_NAME": "Mobility fair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "160697000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4053076,
+        "CONCEPT_NAME": "Mobility poor",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "160693001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4052047,
+        "CONCEPT_NAME": "Mobility very poor",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "160692006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1314392,
+        "CONCEPT_NAME": "Patient is not ambulatory, bed ridden, immobile, confined to chair, wheelchair bound, dependent on helper pushing wheelchair, independent in wheelchair or minimal help in wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "G9719",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "HCPCS",
+        "CONCEPT_CLASS_ID": "HCPCS",
+        "VALID_START_DATE": 1483228800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 1314394,
+        "CONCEPT_NAME": "Patient not ambulatory, bed ridden, immobile, confined to chair, wheelchair bound, dependent on helper pushing wheelchair, independent in wheelchair or minimal help in wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "G9721",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "HCPCS",
+        "CONCEPT_CLASS_ID": "HCPCS",
+        "VALID_START_DATE": 1483228800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44790681,
+        "CONCEPT_NAME": "Patient unable to get up unaided",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "242591000000103",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1159747200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4310235,
+        "CONCEPT_NAME": "Reduced mobility",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "8510008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4012646,
+        "CONCEPT_NAME": "Stick only for walking",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "165253006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4012944,
+        "CONCEPT_NAME": "Tripod/quadrupod: walking",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "165254000",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199550,
+        "CONCEPT_NAME": "Unable to mobilize",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302043000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199093,
+        "CONCEPT_NAME": "Unable to mobilize indoors",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301498003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4199111,
+        "CONCEPT_NAME": "Unable to mobilize using mobility aids",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301571004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200355,
+        "CONCEPT_NAME": "Unable to mobilize using wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301577000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200350,
+        "CONCEPT_NAME": "Unable to move around supporting self on furniture",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301558002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4105451,
+        "CONCEPT_NAME": "Unable to shuffle",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282615009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4106332,
+        "CONCEPT_NAME": "Unable to sit",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282966001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4023187,
+        "CONCEPT_NAME": "Unable to sit unsupported",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "225602000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4060223,
+        "CONCEPT_NAME": "Unable to stand",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "161903000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4118805,
+        "CONCEPT_NAME": "Unable to transfer between wheelchair and toilet",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "302276008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4151066,
+        "CONCEPT_NAME": "Unable to transfer weight",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282653004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4086548,
+        "CONCEPT_NAME": "Unable to walk",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282145008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44792042,
+        "CONCEPT_NAME": "Unable to walk long distances",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "320301000000109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1207008000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4086874,
+        "CONCEPT_NAME": "Unable to walk up a slope",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282156008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116707,
+        "CONCEPT_NAME": "Unable to weight-bear",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "285674009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44789400,
+        "CONCEPT_NAME": "Uses wheelchair outdoors",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "203251000000105",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1143849600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4012945,
+        "CONCEPT_NAME": "Uses zimmer frame",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "165255004",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45878235,
+        "CONCEPT_NAME": "Very limited, Immobile",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "LA21289-6",
+        "DOMAIN_ID": "Meas Value",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Answer",
+        "VALID_START_DATE": 0,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4266144,
+        "CONCEPT_NAME": "Walking aid use - finding",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "365112008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 439405,
+        "CONCEPT_NAME": "Walking disability",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "228158008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4023190,
+        "CONCEPT_NAME": "Wheelchair bound",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "225612007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4240470,
+        "CONCEPT_NAME": "Wheelchair",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "58938008",
+        "DOMAIN_ID": "Device",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Physical Object",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4086557,
+        "CONCEPT_NAME": "Difficulty walking up stairs",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282195009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4200822,
+        "CONCEPT_NAME": "Difficulty managing stairs",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301592004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}

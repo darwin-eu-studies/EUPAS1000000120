@@ -1,0 +1,5191 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 40481109,
+        "CONCEPT_NAME": "Abscess of urethral gland due to Neisseria gonorrhoeae",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "444834005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1280534400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128060,
+        "CONCEPT_NAME": "Acquired immune deficiency syndrome-related nephropathy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236406007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126285,
+        "CONCEPT_NAME": "Acquired urethral fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236697004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45770840,
+        "CONCEPT_NAME": "Acquired urethrocutaneous fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "99621000119104",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4329572,
+        "CONCEPT_NAME": "Acute bacterial tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "22352007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128401,
+        "CONCEPT_NAME": "Acute culture positive cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236702008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 194081,
+        "CONCEPT_NAME": "Acute cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "68226007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127564,
+        "CONCEPT_NAME": "Acute cystitis - culture-negative",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236624004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4027117,
+        "CONCEPT_NAME": "Acute diffuse nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197585004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4137752,
+        "CONCEPT_NAME": "Acute drug-induced tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "32093003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058837,
+        "CONCEPT_NAME": "Acute focal nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197584000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4239213,
+        "CONCEPT_NAME": "Acute fungal tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "91195006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 435308,
+        "CONCEPT_NAME": "Acute glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "19351000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 435320,
+        "CONCEPT_NAME": "Acute glomerulonephritis associated with another disorder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197582001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 193140,
+        "CONCEPT_NAME": "Acute gonococcal cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "24868007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 200040,
+        "CONCEPT_NAME": "Acute gonococcal endometritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "65295003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 200334,
+        "CONCEPT_NAME": "Acute gonococcal salpingitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "45377007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4107240,
+        "CONCEPT_NAME": "Acute gonococcal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "29864006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 133965,
+        "CONCEPT_NAME": "Acute gonorrhea of upper genitourinary tract",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "50970007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4215879,
+        "CONCEPT_NAME": "Acute hemorrhagic cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "81125004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4284564,
+        "CONCEPT_NAME": "Acute infectious tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "66993009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4144035,
+        "CONCEPT_NAME": "Acute infective cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "307426000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4330644,
+        "CONCEPT_NAME": "Acute lower urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "431737008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1217462400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37016359,
+        "CONCEPT_NAME": "Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "368871000119106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058986,
+        "CONCEPT_NAME": "Acute nephritic syndrome, dense deposit disease",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197687001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4054915,
+        "CONCEPT_NAME": "Acute nephritic syndrome, diffuse crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197688006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056473,
+        "CONCEPT_NAME": "Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197685009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056472,
+        "CONCEPT_NAME": "Acute nephritic syndrome, diffuse membranous glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197683002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059455,
+        "CONCEPT_NAME": "Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197684008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059456,
+        "CONCEPT_NAME": "Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197686005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058985,
+        "CONCEPT_NAME": "Acute nephritic syndrome, focal and segmental glomerular lesions",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197682007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059454,
+        "CONCEPT_NAME": "Acute nephritic syndrome, minor glomerular abnormality",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197681000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4189531,
+        "CONCEPT_NAME": "Acute nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "61503006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 762464,
+        "CONCEPT_NAME": "Acute nephritis due to another disorder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40371000119105",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1456790400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 435003,
+        "CONCEPT_NAME": "Acute nephritis with lesions of necrotizing glomerulitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197580009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45769230,
+        "CONCEPT_NAME": "Acute on chronic cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "707834009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4286024,
+        "CONCEPT_NAME": "Acute post-streptococcal glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "68544003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 259070,
+        "CONCEPT_NAME": "Acute proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197579006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4280571,
+        "CONCEPT_NAME": "Acute pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "36689008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3654660,
+        "CONCEPT_NAME": "Acute pyelonephritis caused by bacterium",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "838353009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1596153600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 197035,
+        "CONCEPT_NAME": "Acute pyelonephritis with medullary necrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197769007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 196735,
+        "CONCEPT_NAME": "Acute pyelonephritis without medullary necrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197768004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056023,
+        "CONCEPT_NAME": "Acute pyonephrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197770008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4251796,
+        "CONCEPT_NAME": "Acute pyonephrosis with renal medullary necrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7448003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4310661,
+        "CONCEPT_NAME": "Acute pyonephrosis without renal medullary necrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "85495007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032434,
+        "CONCEPT_NAME": "Acute radiation cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236628001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4158913,
+        "CONCEPT_NAME": "Acute recurrent cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "274109003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4269514,
+        "CONCEPT_NAME": "Acute trigonitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "62199007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606429,
+        "CONCEPT_NAME": "Acute tubulo-interstitial nephritis due to immunological disorder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1144972008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4102631,
+        "CONCEPT_NAME": "Acute tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "28637003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4042397,
+        "CONCEPT_NAME": "Acute tubulointerstitial nephritis associated with systemic infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "16751003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4329106,
+        "CONCEPT_NAME": "Acute upper urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "431308006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1217462400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4331815,
+        "CONCEPT_NAME": "Acute urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "431309003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1217462400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4100954,
+        "CONCEPT_NAME": "Acute viral tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "27810000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4338362,
+        "CONCEPT_NAME": "Amebic cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "8776008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 76187,
+        "CONCEPT_NAME": "Arthropathy associated with nonspecific urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "39992005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3189639,
+        "CONCEPT_NAME": "Aspergillus fumigatus infection of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "24430001000004101",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Nebraska Lexicon",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1453939200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4026929,
+        "CONCEPT_NAME": "At risk of urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "225956009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42600293,
+        "CONCEPT_NAME": "Avian viral nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "44391000009106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED Veterinary",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1219968000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4175166,
+        "CONCEPT_NAME": "Bacterial cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "424551004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1170201600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42598600,
+        "CONCEPT_NAME": "Bacterial kidney disease of fish",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "335441000009106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED Veterinary",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1391126400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36713241,
+        "CONCEPT_NAME": "Bacterial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "42231000009109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42600089,
+        "CONCEPT_NAME": "Bacterial pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "41291000009104",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED Veterinary",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1219968000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606935,
+        "CONCEPT_NAME": "Bacterial pyuria",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148870007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4324904,
+        "CONCEPT_NAME": "Bacterial urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "429728004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1201737600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4208664,
+        "CONCEPT_NAME": "Bacterial urinary infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312124009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3177960,
+        "CONCEPT_NAME": "Bilateral nephropathy due to vesicoureteral reflux",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7470001000004106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Nebraska Lexicon",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1453939200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37017585,
+        "CONCEPT_NAME": "BK virus nephropathy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "713886006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3654610,
+        "CONCEPT_NAME": "Bladder disorder caused by Schistosoma",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "838301001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1596153600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3654611,
+        "CONCEPT_NAME": "Bladder disorder caused by Schistosoma japonicum",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "838302008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1596153600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4034818,
+        "CONCEPT_NAME": "Calculous pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "23754003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4030508,
+        "CONCEPT_NAME": "Candida pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236378005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032428,
+        "CONCEPT_NAME": "Candida ureteritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236600007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059733,
+        "CONCEPT_NAME": "Candidal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197903003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032454,
+        "CONCEPT_NAME": "Candiduria",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236721000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45763849,
+        "CONCEPT_NAME": "Catheter-associated urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "700372006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1406764800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 72245,
+        "CONCEPT_NAME": "Chlamydial infection of lower genitourinary tract",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "186729003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126282,
+        "CONCEPT_NAME": "Chlamydial urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236683007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 196338,
+        "CONCEPT_NAME": "Chronic gonococcal cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "88813005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 193699,
+        "CONCEPT_NAME": "Chronic gonococcal endometritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "31999004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 193700,
+        "CONCEPT_NAME": "Chronic gonococcal salpingitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "53529004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4186202,
+        "CONCEPT_NAME": "Chronic gonococcal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "44412000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 201785,
+        "CONCEPT_NAME": "Chronic gonorrhea of upper genitourinary tract",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "80388004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127563,
+        "CONCEPT_NAME": "Chronic infective cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236622000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4125952,
+        "CONCEPT_NAME": "Chronic infective interstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236374007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4177850,
+        "CONCEPT_NAME": "Chronic lower urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "428091000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1201737600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126297,
+        "CONCEPT_NAME": "Chronic obstructive pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236379002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4269363,
+        "CONCEPT_NAME": "Chronic pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "63302006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 201908,
+        "CONCEPT_NAME": "Chronic pyelonephritis with medullary necrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197761005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 199872,
+        "CONCEPT_NAME": "Chronic pyelonephritis without medullary necrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197760006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056597,
+        "CONCEPT_NAME": "Chronic pyonephrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197763008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056622,
+        "CONCEPT_NAME": "Chronic urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197928006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606158,
+        "CONCEPT_NAME": "Circumferential urethrovaginal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1142242007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606088,
+        "CONCEPT_NAME": "Circumferential urethrovaginal fistula with involvement of continence mechanism",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1142115000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606089,
+        "CONCEPT_NAME": "Circumferential urethrovaginal fistula with severe scarring",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1142116004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116490,
+        "CONCEPT_NAME": "Coliform urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301010001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4238729,
+        "CONCEPT_NAME": "Congenital anourethral fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "91210006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4314421,
+        "CONCEPT_NAME": "Congenital urethrorectal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "87093008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4109628,
+        "CONCEPT_NAME": "Congenital urethrovaginal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "253837000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45772089,
+        "CONCEPT_NAME": "Cystitis due to Chlamydia",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1084821000119103",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1406764800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4247613,
+        "CONCEPT_NAME": "Cystitis due to Pseudomonas",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "40635000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4176285,
+        "CONCEPT_NAME": "Cystitis with actinomycosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "5093001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4203790,
+        "CONCEPT_NAME": "Cystitis with bilharziasis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "53991003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4207359,
+        "CONCEPT_NAME": "Cystitis with Echinococcus infestation",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "54026009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128374,
+        "CONCEPT_NAME": "Cytomegalovirus-induced glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236590008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4272486,
+        "CONCEPT_NAME": "Diffuse crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "64212008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4284491,
+        "CONCEPT_NAME": "Diffuse endocapillary proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "3704008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4049424,
+        "CONCEPT_NAME": "Diffuse pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "123755001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45757237,
+        "CONCEPT_NAME": "Diphtheria tubulointerstitial nephropathy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1086071000119103",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 195743,
+        "CONCEPT_NAME": "Diphtheritic cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "48278001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36716009,
+        "CONCEPT_NAME": "Disorder of kidney and/or ureter caused by Schistosoma haematobium",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "721817004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35624460,
+        "CONCEPT_NAME": "Displacement of indwelling urinary catheter balloon into urethra due to and following insertion of urethral catheter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "767225004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1532995200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4179205,
+        "CONCEPT_NAME": "Emphysematous cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "52123000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4125953,
+        "CONCEPT_NAME": "Emphysematous pyelitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236375008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4125951,
+        "CONCEPT_NAME": "Emphysematous pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236373001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126300,
+        "CONCEPT_NAME": "Endocapillary glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236393009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40479370,
+        "CONCEPT_NAME": "Exposure to nongonococcal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "444394002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Event",
+        "VALID_START_DATE": 1264896000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40479429,
+        "CONCEPT_NAME": "Exposure to nonspecific urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "444454003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Event",
+        "VALID_START_DATE": 1264896000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45768718,
+        "CONCEPT_NAME": "Familial non-obstructive reflux-associated chronic pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "707208009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45770841,
+        "CONCEPT_NAME": "Febrile urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "99631000119101",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4220051,
+        "CONCEPT_NAME": "Focal embolic nephritis syndrome",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "8199003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4048676,
+        "CONCEPT_NAME": "Focal pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "123754002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42600389,
+        "CONCEPT_NAME": "Focal suppurative nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "45631000009100",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED Veterinary",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1219968000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4233236,
+        "CONCEPT_NAME": "Follicular urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "89891003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4030507,
+        "CONCEPT_NAME": "Fungal infection of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236377000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4080340,
+        "CONCEPT_NAME": "Gonococcal Cowperitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240576002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059608,
+        "CONCEPT_NAME": "Gonococcal cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197848003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128047,
+        "CONCEPT_NAME": "Gonococcal endometritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "237069002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4080779,
+        "CONCEPT_NAME": "Gonococcal Littré gland abscess",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240578001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4080596,
+        "CONCEPT_NAME": "Gonococcal Littritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240577006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4080597,
+        "CONCEPT_NAME": "Gonococcal paraurethral gland abscess",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240579009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127390,
+        "CONCEPT_NAME": "Gonococcal salpingitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "237038001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4080595,
+        "CONCEPT_NAME": "Gonococcal Skenitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240574004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127392,
+        "CONCEPT_NAME": "Gonococcal tubo-ovarian abscess",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "237046000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128399,
+        "CONCEPT_NAME": "Gonococcal urethral abscess",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236687008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128397,
+        "CONCEPT_NAME": "Gonococcal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236682002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 760135,
+        "CONCEPT_NAME": "Gonorrhea of kidney and ureter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1087041000119107",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1519862400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37311937,
+        "CONCEPT_NAME": "Gonorrhea of penis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "788961008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1580428800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 761872,
+        "CONCEPT_NAME": "Gonorrhea of upper genitourinary tract",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "16217981000119107",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1519862400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37018854,
+        "CONCEPT_NAME": "Hematuria co-occurrent and due to acute cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "366941000119107",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45757746,
+        "CONCEPT_NAME": "Hereditary diffuse crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367521000119108",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45772126,
+        "CONCEPT_NAME": "Hereditary diffuse endocapillary proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "367531000119106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4089498,
+        "CONCEPT_NAME": "Hydatid cyst of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "187144000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4188623,
+        "CONCEPT_NAME": "Idiopathic acute tubulointerstitial nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "47330001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126301,
+        "CONCEPT_NAME": "Idiopathic crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236398000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4272470,
+        "CONCEPT_NAME": "Idiopathic crescentic glomerulonephritis, type I",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "64168005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4234761,
+        "CONCEPT_NAME": "Idiopathic crescentic glomerulonephritis, type II",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "359694003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4210158,
+        "CONCEPT_NAME": "Idiopathic crescentic glomerulonephritis, type III",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "55652009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4125957,
+        "CONCEPT_NAME": "Idiopathic endocapillary glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236394003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40482881,
+        "CONCEPT_NAME": "Idiopathic rapidly progressive glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "445258009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1280534400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37109714,
+        "CONCEPT_NAME": "Indwelling urethral urinary catheter in situ",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "723542006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1501459200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4167926,
+        "CONCEPT_NAME": "Infected diverticulum of bladder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "275410008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126296,
+        "CONCEPT_NAME": "Infected renal cyst",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236376009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4159655,
+        "CONCEPT_NAME": "Infection of bladder catheter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "371061003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1028073600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40492346,
+        "CONCEPT_NAME": "Infection of cervix due to Chlamydia trachomatis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "447353001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1296432000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 46269909,
+        "CONCEPT_NAME": "Infection of lower genitourinary tract co-occurrent with abscess of periurethral gland caused by Gonococcus",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1087011000119108",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1438300800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 607157,
+        "CONCEPT_NAME": "Infection of urachal remnant",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1149233001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 607156,
+        "CONCEPT_NAME": "Infection of urachal sinus",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1149232006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37311936,
+        "CONCEPT_NAME": "Infection of urinary tract caused by Herpes simplex",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "788962001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1580428800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40492401,
+        "CONCEPT_NAME": "Infection of vagina due to Chlamydia trachomatis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "447402003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1296432000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 192964,
+        "CONCEPT_NAME": "Infectious disorder of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "129128006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127562,
+        "CONCEPT_NAME": "Infective cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236620008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4207309,
+        "CONCEPT_NAME": "Infective ureteritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "312221005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032445,
+        "CONCEPT_NAME": "Infective urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236681009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 38001427,
+        "CONCEPT_NAME": "Kidney & urinary tract infections w MCC",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "689",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "DRG",
+        "CONCEPT_CLASS_ID": "MS-DRG",
+        "VALID_START_DATE": 1191196800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 38001428,
+        "CONCEPT_NAME": "Kidney & urinary tract infections w/o MCC",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "690",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "DRG",
+        "CONCEPT_CLASS_ID": "MS-DRG",
+        "VALID_START_DATE": 1191196800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4263853,
+        "CONCEPT_NAME": "Klebsiella cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "60867007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059131,
+        "CONCEPT_NAME": "Late syphilis of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197757004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4220328,
+        "CONCEPT_NAME": "Lower urinary tract infectious disease",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "4009004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4174255,
+        "CONCEPT_NAME": "Malakoplakia of urethra",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "423352002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1170201600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 194847,
+        "CONCEPT_NAME": "Mechanical complication due to urethral indwelling catheter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "79315005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059142,
+        "CONCEPT_NAME": "Monilial cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197849006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126286,
+        "CONCEPT_NAME": "Multiple urethrocutaneous fistulae",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236699001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4062493,
+        "CONCEPT_NAME": "Mumps nephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "17121006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4318119,
+        "CONCEPT_NAME": "Mycoplasmal pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "95889002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4047937,
+        "CONCEPT_NAME": "Neonatal urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "12301009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4027122,
+        "CONCEPT_NAME": "Nephrotic syndrome in malaria",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197606008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606030,
+        "CONCEPT_NAME": "Non-circumferential urethrovaginal fistula with involvement of continence mechanism",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1142033008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 194685,
+        "CONCEPT_NAME": "Non-obstructive reflux-associated chronic pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197764002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 201792,
+        "CONCEPT_NAME": "Nongonococcal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "84619001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4196799,
+        "CONCEPT_NAME": "Nongonococcal urethritis due to Ureaplasma urealyticum",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "51105006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45757792,
+        "CONCEPT_NAME": "Obstructive pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "4181000119109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44813985,
+        "CONCEPT_NAME": "On urinary tract infection care pathway",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "869691000000108",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Context-dependent",
+        "VALID_START_DATE": 1364774400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42593547,
+        "CONCEPT_NAME": "Parasitic infection of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "282621000009109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED Veterinary",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1257379200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37018344,
+        "CONCEPT_NAME": "Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "714816008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37019162,
+        "CONCEPT_NAME": "Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "714818009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4089973,
+        "CONCEPT_NAME": "Plasmodium malariae malaria with nephropathy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "186796004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45768657,
+        "CONCEPT_NAME": "Polypoid urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "707131004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4054881,
+        "CONCEPT_NAME": "Postmenopausal urethral atrophy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "21237001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059737,
+        "CONCEPT_NAME": "Postoperative urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197926005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4343933,
+        "CONCEPT_NAME": "Primary pauci-immune necrotizing and crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "239932005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4114033,
+        "CONCEPT_NAME": "Proteus urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301012009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 198199,
+        "CONCEPT_NAME": "Pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "45816000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056026,
+        "CONCEPT_NAME": "Pyelonephritis associated with another disorder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197782004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3181873,
+        "CONCEPT_NAME": "Pyelonephritis due to Escherichia coli",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "20690001000004107",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Nebraska Lexicon",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1453939200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4190328,
+        "CONCEPT_NAME": "Pyocystis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "373611003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1028073600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4174994,
+        "CONCEPT_NAME": "Pyonephrosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "48631008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4312595,
+        "CONCEPT_NAME": "Pyoureter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "85884009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 196464,
+        "CONCEPT_NAME": "Rapidly progressive glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236392004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4054992,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197689003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37016360,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "368881000119109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058991,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, dense deposit disease",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197696001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059458,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197697005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058990,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197694003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058989,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197692004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4059457,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197693009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056475,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197695002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4058988,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197691006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056474,
+        "CONCEPT_NAME": "Rapidly progressive nephritic syndrome, minor glomerular abnormality",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197690007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4137361,
+        "CONCEPT_NAME": "Recurrent bacterial cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "425562008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1185840000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37018343,
+        "CONCEPT_NAME": "Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "714815007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37018345,
+        "CONCEPT_NAME": "Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "714817004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032449,
+        "CONCEPT_NAME": "Recurrent infective cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236703003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4307400,
+        "CONCEPT_NAME": "Recurrent obstructive pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "423322005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1170201600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056621,
+        "CONCEPT_NAME": "Recurrent urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197927001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4157002,
+        "CONCEPT_NAME": "Renal candidiasis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "370368007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1028073600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4192381,
+        "CONCEPT_NAME": "Renal coccidiosis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "75712001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37017217,
+        "CONCEPT_NAME": "Renal impairment caused by Polyomavirus",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "713453003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4125971,
+        "CONCEPT_NAME": "Renal ocular syndrome",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236451007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4080456,
+        "CONCEPT_NAME": "Renal tract candidiasis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "240721007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45757268,
+        "CONCEPT_NAME": "Salmonella pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1092371000119103",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127709,
+        "CONCEPT_NAME": "Schistosomal urethral fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236686004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4128398,
+        "CONCEPT_NAME": "Schistosomiasis of the urethra",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236685000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032427,
+        "CONCEPT_NAME": "Schistosomiasis of ureter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236599009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36715430,
+        "CONCEPT_NAME": "Sepsis due to urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "721104000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4183440,
+        "CONCEPT_NAME": "Subacute cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "4324001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4048058,
+        "CONCEPT_NAME": "Subacute pyelonephritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "123611003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 442345,
+        "CONCEPT_NAME": "Syphilis of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "59530001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45757273,
+        "CONCEPT_NAME": "Toxoplasma tubulointerstitial nephropathy",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1092831000119109",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3051035,
+        "CONCEPT_NAME": "Treated for urinary tract infection in past 14 days [CMS Assessment]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "46552-6",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Survey",
+        "VALID_START_DATE": 0,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4056610,
+        "CONCEPT_NAME": "Trichomonal cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "197850006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 200657,
+        "CONCEPT_NAME": "Trichomonal urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "30116001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 198674,
+        "CONCEPT_NAME": "Tuberculosis of bladder",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "32268008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 193955,
+        "CONCEPT_NAME": "Tuberculosis of kidney",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "44323002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 198957,
+        "CONCEPT_NAME": "Tuberculosis of ureter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "81359005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 72817,
+        "CONCEPT_NAME": "Tuberculosis of urinary organs",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "111830007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4290623,
+        "CONCEPT_NAME": "Tuberculous pyelitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "37133005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127558,
+        "CONCEPT_NAME": "Tuberculous stricture of ureter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236602004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126283,
+        "CONCEPT_NAME": "Tuberculous urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236684001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 35610224,
+        "CONCEPT_NAME": "Uncomplicated urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1090711000000102",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1522540800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4311853,
+        "CONCEPT_NAME": "Upper urinary tract infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "422747000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1170201600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4126136,
+        "CONCEPT_NAME": "Ureteric fistula to urethra",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236613001",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 45757595,
+        "CONCEPT_NAME": "Urethral cellulitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "237121000119100",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1422662400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 196465,
+        "CONCEPT_NAME": "Urethral false passage",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "74944002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 201338,
+        "CONCEPT_NAME": "Urethral fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "14981000",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4127714,
+        "CONCEPT_NAME": "Urethral fistula to skin",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236698009",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4008561,
+        "CONCEPT_NAME": "Urethral granuloma",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "111412007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4232765,
+        "CONCEPT_NAME": "Urethral meatitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "89656008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4216859,
+        "CONCEPT_NAME": "Urethral stricture due to gonococcal infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "72225002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 197919,
+        "CONCEPT_NAME": "Urethral stricture due to infection",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "80375002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4066017,
+        "CONCEPT_NAME": "Urethral stricture due to schistosomiasis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1723008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4105744,
+        "CONCEPT_NAME": "Urethral stricture due to syphilis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "29500006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 195862,
+        "CONCEPT_NAME": "Urethritis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "31822004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 439686,
+        "CONCEPT_NAME": "Urethritis due to Chlamydia trachomatis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "179101003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4203908,
+        "CONCEPT_NAME": "Urethroperineal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "54022006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4035951,
+        "CONCEPT_NAME": "Urethrorectal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "15165002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4284706,
+        "CONCEPT_NAME": "Urethrotrigonitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "67167008",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4198533,
+        "CONCEPT_NAME": "Urethrovaginal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "50477003",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4251187,
+        "CONCEPT_NAME": "Urethrovesical fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "7350007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4049497,
+        "CONCEPT_NAME": "Urethrovesicovaginal fistula",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "20913004",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4032450,
+        "CONCEPT_NAME": "Urinary schistosomiasis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "236706006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44810636,
+        "CONCEPT_NAME": "Urinary tract infection care pathway",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "869761000000107",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure",
+        "VALID_START_DATE": 1364774400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37016368,
+        "CONCEPT_NAME": "Urinary tract infection caused by Enterococcus",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "368991000119100",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4116491,
+        "CONCEPT_NAME": "Urinary tract infection caused by Escherichia coli",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "301011002",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37016369,
+        "CONCEPT_NAME": "Urinary tract infection caused by Klebsiella",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "369001000119100",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37016370,
+        "CONCEPT_NAME": "Urinary tract infection caused by Pseudomonas",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "369011000119102",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1454198400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 609231,
+        "CONCEPT_NAME": "Urinary tract infection caused by Streptococcus agalactiae",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "16916631000119104",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1612051200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3179614,
+        "CONCEPT_NAME": "Urinary tract infection due to extended spectrum beta lactamase producing Klebsiella",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "31240001000004105",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Nebraska Lexicon",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1453939200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 764968,
+        "CONCEPT_NAME": "Urinary tract infection following procedure",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "96171000119103",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1472688000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3046487,
+        "CONCEPT_NAME": "Urinary tract infection in last 30 days [Minimum Data Set]",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "45689-7",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "LOINC",
+        "CONCEPT_CLASS_ID": "Survey",
+        "VALID_START_DATE": 0,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 81902,
+        "CONCEPT_NAME": "Urinary tract infectious disease",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "68566005",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3169965,
+        "CONCEPT_NAME": "Vancomycin resistant enterococcus urine",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "13110001000004105",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "Nebraska Lexicon",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1453939200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 606982,
+        "CONCEPT_NAME": "Viral cystitis",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1148932007",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1627689600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    }
+  ]
+}

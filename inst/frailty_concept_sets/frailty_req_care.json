@@ -1,0 +1,954 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 35609081,
+        "CONCEPT_NAME": "Home visit requested by care home staff",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1078511000000102",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1506816000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4052486,
+        "CONCEPT_NAME": "Lives in a nursing home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "160734000",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4192880,
+        "CONCEPT_NAME": "Lives in a residential home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "394923006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1043971200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44791364,
+        "CONCEPT_NAME": "Lives in care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "248171000000108",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1159747200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4074789,
+        "CONCEPT_NAME": "Lives in supported home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224220007",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4022081,
+        "CONCEPT_NAME": "Living in residential institution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "105530003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3661927,
+        "CONCEPT_NAME": "Living temporarily in care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1240291000000104",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1596585600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44790305,
+        "CONCEPT_NAME": "Local authority care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "193161000000101",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1122768000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 40486978,
+        "CONCEPT_NAME": "Nursing home acquired pressure ulcer",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "446262006",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1296432000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44790706,
+        "CONCEPT_NAME": "Pain commenced - residential home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "244111000000106",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1159747200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44791204,
+        "CONCEPT_NAME": "Place of occurrence of injury: residential home environment",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "244291000000107",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1159747200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44802299,
+        "CONCEPT_NAME": "Previously lived in care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "493751000000104",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1254355200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44788859,
+        "CONCEPT_NAME": "Private or voluntary care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "193171000000108",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1122768000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4147552,
+        "CONCEPT_NAME": "Private residential home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "310205006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 765265,
+        "CONCEPT_NAME": "Problem related to living in residential institution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "15929301000119104",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1488326400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 36713971,
+        "CONCEPT_NAME": "Referred by care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "719023008",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1485820800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44814152,
+        "CONCEPT_NAME": "Referred by nursing home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "838691000000105",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1349049600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44814153,
+        "CONCEPT_NAME": "Referred by residential home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "838701000000105",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1349049600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4119866,
+        "CONCEPT_NAME": "Residential home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "257688003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44804659,
+        "CONCEPT_NAME": "Residential home acquired pressure ulcer",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "758831000000108",
+        "DOMAIN_ID": "Condition",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1301616000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4305680,
+        "CONCEPT_NAME": "Residential institution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "419955002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1138665600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37310422,
+        "CONCEPT_NAME": "Seen by clinical pharmacist in care home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "1129891000000107",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1569888000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4088536,
+        "CONCEPT_NAME": "Seen in nursing home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "185218006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4109825,
+        "CONCEPT_NAME": "Air force barracks",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "284651003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4107867,
+        "CONCEPT_NAME": "Army barracks",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "284649002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4074604,
+        "CONCEPT_NAME": "Battered wives hostel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224677001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4108915,
+        "CONCEPT_NAME": "Convent",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "285115002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3656375,
+        "CONCEPT_NAME": "Emergency shelter",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "25721000087108",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1596153600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4075529,
+        "CONCEPT_NAME": "Halfway house",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224680000",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4105407,
+        "CONCEPT_NAME": "Hostel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "257628001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4076506,
+        "CONCEPT_NAME": "Hostel for the homeless",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224675009",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4053092,
+        "CONCEPT_NAME": "Lives in a welfare home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "160736003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4075531,
+        "CONCEPT_NAME": "Military accommodation",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224683003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4109824,
+        "CONCEPT_NAME": "Military camp",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "284650002",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4110771,
+        "CONCEPT_NAME": "Monastery",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "285114003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4109524,
+        "CONCEPT_NAME": "Naval barracks",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "284652005",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4119859,
+        "CONCEPT_NAME": "Penal institution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "257656006",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4073324,
+        "CONCEPT_NAME": "Rehabilitation hostel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224679003",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4114884,
+        "CONCEPT_NAME": "Religious institutional residence",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "285113009",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4075532,
+        "CONCEPT_NAME": "Remand home",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224688007",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4075519,
+        "CONCEPT_NAME": "Retreat house",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224629001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4076509,
+        "CONCEPT_NAME": "Staff hostel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224681001",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4075530,
+        "CONCEPT_NAME": "Student hostel",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224682008",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 3656380,
+        "CONCEPT_NAME": "Transitional housing",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "25911000087103",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1596153600000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4075533,
+        "CONCEPT_NAME": "Young offenders center",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "224689004",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Location",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": true,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44788849,
+        "CONCEPT_NAME": "Provision of residential care",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "193051000000100",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Procedure",
+        "VALID_START_DATE": 1122768000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 37108723,
+        "CONCEPT_NAME": "Assisted living facility patient",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "11762561000119103",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1501459200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 44807727,
+        "CONCEPT_NAME": "Has a paid carer",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "818091000000106",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1333238400000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 4081589,
+        "CONCEPT_NAME": "Has a caregiver",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "184156005",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1012435200000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    },
+    {
+      "concept": {
+        "CONCEPT_ID": 42535090,
+        "CONCEPT_NAME": "Need for personal care assistance",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "15936341000119106",
+        "DOMAIN_ID": "Observation",
+        "VOCABULARY_ID": "SNOMED",
+        "CONCEPT_CLASS_ID": "Clinical Finding",
+        "VALID_START_DATE": 1517356800000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": false,
+      "includeMapped": false
+    }
+  ]
+}

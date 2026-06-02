@@ -1,0 +1,77 @@
+# Copyright 2026 European Medicines Agency
+#
+# This software is developed by the DARWIN EU Coordination Centre
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# This study code contains unmodified open-source dependencies.
+
+---
+title: "Frailty Polypharmacy Results Analysis"
+author: "Adam Black"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load data}
+
+library(dplyr)
+dbdir <- file.path("results", "results_combined.duckdb")
+con <- DBI::dbConnect(duckdb::duckdb(), dbdir = dbdir)
+
+# DBI::dbListTables(con)
+
+# cohorts <- tbl(con, "cohort_counts") %>% collect
+# demo <- tbl(con, "demographics")  %>% collect
+prev <- tbl(con, "prevalence") %>% collect
+# hosp <- tbl(con, "hospitalization_death") %>% collect
+# cohort_attrition <- tbl(con, "cohort_attrition") %>% collect
+# drugs <- tbl(con, "ls_drugs") %>% collect 
+# conditions <- tbl(con, "ls_conditions") %>% collect 
+
+```
+
+
+```{r}
+
+df <- prev %>% 
+  filter(strata_level == "overall") %>% 
+  select(cdm_name, variable_name, estimate_name, estimate_value, cohort = group_level) %>%
+  filter(stringr::str_detect(variable_name, "frailty"), variable_name != "frailty_category") %>% 
+  tidyr::pivot_wider(names_from = "estimate_name", values_from = "estimate_value") %>% 
+  mutate(count = as.numeric(count), percentage = as.numeric(percentage))
+
+
+library(ggplot2)
+
+plt <- ggplot(df, aes(x = variable_name, y = percentage, color = cdm_name)) +
+  geom_point() +
+  facet_wrap(~cohort) +
+  # facet_grid(cdm_name ~ cohort) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+
+
+plotly::ggplotly(plt)
+```
+
+
+```{r}
+DBI::dbDisconnect(con, shutdown = T)
+```
+
